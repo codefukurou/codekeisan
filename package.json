@@ -1,0 +1,21 @@
+{
+  "name": "codekeisan",
+  "version": "0.1.0",
+  "description": "Node.js Calculator Application",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Benjamin Lewis",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^5.0.2"
+  },
+  "dependencies": {
+    "mathjax": "^2.7.5"
+  }
+}
